@@ -37,7 +37,7 @@ A POC for E2E Testing in Java using Cucumber
             mvn clean test -Darchaius.configurationSource.additionalUrls=https://raw.githubusercontent.com/kenzanmedia/cucumber-e2e-poc/develop/src/test/resources/application.properties?token=AT5lWdlLeEPZESGOvz768VKttMeihNDGks5YEmc8wA%3D%3D
 
  ## LICENSE
-Copyright 2016 Kenzan, LLC <http://kenzan.com>
+Copyright 2017 Kenzan, LLC <http://kenzan.com>
  
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
